@@ -29,6 +29,7 @@ You agree to allow zZipline, directly or through third parties, to ask others, s
 Debt/Bills:
 
 You agree that if you end up with unpaid debts or bills to other users, they may use documentation within zZipline to try and collect that debt. They might use things like unpaid unpaid invoices or anything else we put out there. Most importantly - at least to us - you agree that zZipline will not be held liable for any losses or debts incurred during your experience with other zZipline Users. We went ahead and used the full legalese there because that one is real important.
+Here is an exception to the paragraph above: zZipline also contains a feature where a user can create a promise to pay (or an IOU in everyday language). When this occurs, all zZipline users agree that these promises to pay DO NOT  create a binding contract between the parties upon  which the user receiving the promise can bring legal action against the user making the promise.
 
 Login / Password / PIN:
 
